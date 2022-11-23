@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "net novel stote",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

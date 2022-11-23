@@ -1,0 +1,8 @@
+{
+  "name": "net novel stote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e0cd2350"
+}
